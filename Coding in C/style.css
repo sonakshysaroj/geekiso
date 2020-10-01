@@ -15,7 +15,7 @@ img{
 p{
     font-family: 'Raleway', sans-serif;
     font-size:25px;
-    color:black;
+    color:gray;
     text-align: inherit;
     padding-left: 190px;
     padding-right: 190pxpx;
@@ -24,16 +24,16 @@ p{
 .a-text{
     font-family: monospace;
     color:black;
-    padding-top: 3px;
+    padding-top: 4px;
     padding-bottom:3px;
     padding-left:20px;
-    padding-right: 150px;
+    padding-right: 154px;
     border-color: black;
     border-width: medium;
     border-style: dotted;
     background-color: skyblue;
     margin-left: 180px;
-    margin-right: 180px;
+    margin-right: 150px;
     
     transition: box-shadow 1s, background 1s;
 }
